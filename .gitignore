@@ -22,3 +22,5 @@ chatbot/chroma_db/
 
 # Runtime uploads
 uploads/
+
+chroma_db/
